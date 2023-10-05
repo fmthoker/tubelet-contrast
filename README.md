@@ -15,3 +15,8 @@ This is the codebase for the paper ""**Tubelet-Contrastive Self-Supervision for 
 
 Stay tuned for instructions and Models.
 
+#### Dataset  Preparation
+
+#### Self-supervised Pretraining
+
+#### Evaluation 
