@@ -1,0 +1,9 @@
+output/*
+*/__pycache__
+*/*__pycache__*
+*/*.swp
+*/*.pyc
+*/*/*.pyc
+*/*/*/*.pyc
+*/*/*/*/*.pyc
+*/*/*/*/*/*.pyc
