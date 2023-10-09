@@ -13,11 +13,13 @@ We have successfully pre-trained our models on  [Kinetics400](https://deepmind.c
      ...
      dataset_root/VideoData/zumba/*.avi
      ```
-     dataset_root/labels/train.csv
-     dataset_root/labels/val.csv
+     dataset_root/labels/kinetics_train.csv
+     dataset_root/labels/kinetics_val.csv
      dataset_root/labels/classInd.txt
+     dataset_root/labels/missing_train_videofolder.txt
+     dataset_root/labels/missing_val_videofolder.txt
 
-     We share our train.csv, val.csv and classInd.txt in **[kinetics labels](./data/labels/)**.
+     We share our these files in **[kinetics labels](./data/labels/)**.
 
   3. Run the follwing script to zip video files 
 
@@ -39,5 +41,5 @@ We have successfully pre-trained our models on  [Kinetics400](https://deepmind.c
      # python  cvt_txt_to_json.py 
 
      ```
-    We share our annotation files for mini-kinetcs and kinetics-400 in **[kinetics labels](./data/annotations/)**.
+     We share our annotation files for mini-kinetcs and kinetics-400 in **[kinetics labels](./data/annotations/)**.
 
