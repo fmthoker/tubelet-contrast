@@ -14,7 +14,7 @@ def parse_args():
     parser = argparse.ArgumentParser(description='Preprocess Kinetics dataset')
     parser.add_argument('--raw_dir', default='/ssd/fmthoker/kinetics/VideoData/',
                         type=str, help='raw data directory')
-    parser.add_argument('--out_dir', default='/ssd/fmthoker/kinetics_ctp/',
+    parser.add_argument('--out_dir', default='/ssd/fmthoker/kinetics_processed/',
                         type=str, help='output data directory.')
     parser.add_argument('--ann_dir', default='/ssd/fmthoker/kinetics/labels/',
                         type=str, help='train/test split annotations directory.')

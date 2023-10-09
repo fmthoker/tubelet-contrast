@@ -40,6 +40,8 @@ pip install imutils
 pip install scipy
 pip install einops
 pip install tensorboard
+pip install yapf==0.40.1
+pip install six
 ```
 
 ### Note:
