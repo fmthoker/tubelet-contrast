@@ -42,7 +42,7 @@ This project is built upon [Catch the Patch](https://github.com/microsoft/CtP) a
 
 ## ✏️ Citation
 
-If you think this project is helpful, please feel free to leave a star⭐️ and cite our paper:
+If you think this project is helpful, please feel free to leave a star⭐️ and cite our paperrs below:
 
 ```
 @inproceedings{thoker2023tubelet,
