@@ -1,6 +1,6 @@
 # Official PyTorch Implementation of Tubelet-Contrastive Learning (ICCV 2023).
 
-![Tubelet-contrast Framework](figs/concept.jpg)
+![Tubelet-contrast Framework](figs/teaser.png)
 
 
 > [**Tubelet-Contrastive Self-Supervision for Video-Efficient Generalization**](https://fmthoker.github.io/tubelet-contrastive-learning/)<br>
