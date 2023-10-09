@@ -1,7 +1,7 @@
 # Tubelet-contrast Installation
 
 The codebase is mainly built with following libraries:
-  We can successfully reproduce the main results under two settings below:<br>
+  We can successfully reproduce the main results under two settings below:<br><br>
    CUDA 10.1 + PyTorch 1.6.0 
 
 ```bash
@@ -21,7 +21,7 @@ pip install scipy
 #
 pip install tensorboard
 ```
-   CUDA 11.1 + PyTorch 1.8.0 <br>
+   CUDA 10.2 + PyTorch 1.8.0 <br>
 
 ```bash
 # conda env for  pytorch 1.8.0 and cuda10
@@ -39,10 +39,22 @@ pip install scipy
 pip install tensorboard
 ```
 
+   CUDA 11.1 + PyTorch 1.8.0 <br>
+```bash
+conda create -n tubelet_torch180_cuda11 python=3.7
+conda activate tubelet_torch180_cuda11
+pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html
+pip install opencv-python==4.6.0.66
+pip install mmcv-full==1.6.1 -f https://download.openmmlab.com/mmcv/dist/cu111/torch1.8.0/index.html
 
+pip install imutils
+pip install scipy
+pip install einops
+pip install tensorboard
+```
 
 ### Note:
-- We recommend you to use **`PyTorch > 1.8.0`**.
+- We recommend you to use **`PyTorch  1.8.0`**.
 
 
 
