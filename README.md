@@ -7,8 +7,8 @@
 > [Fida Mohammad Thoker](https://fmthoker.github.io/), [Hazel Doughty](https://hazeldoughty.github.io/), [Cees Snoek](https://www.ceessnoek.info/),<br>University Of Amsterdam, VIS Lab
 
 ## 📰 News
-**[2022.10.20]** The pre-trained models and scripts for **Mini-Kinetics** pretraning are available! <br>
-**[2022.4.24]**  Code and pre-trained models are available now! <br>
+**[2023.10.08]** The pre-trained models and scripts for **Mini-Kinetics** pretraning are available! <br>
+**[2022.10.08]**  Code and pre-trained models are available now! <br>
 
 
 ## 🔨 Installation
