@@ -1,6 +1,6 @@
 # Pre-training Tubelet-Contrastive Learning
 
-We use a single node with 4 GPUs for all trainings.  We provide the **off-the-shelf** scripts in the [scripts_pretrain/](scripts_pretrain).
+We use a single node with 4 GPUs for all pre-trainings.  We provide the **off-the-shelf** scripts in the [scripts_pretrain/](scripts_pretrain).
 
 -  For example, to pre-train R2plus1D-18  on **Mini-Kinetcs**, you can run
 
